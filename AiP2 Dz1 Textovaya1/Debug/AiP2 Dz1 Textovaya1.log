@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\repos\AiP2 Dz1 Textovaya1\AiP2 Dz1 Textovaya1\Source.cpp(78,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\repos\AiP2 Dz1 Textovaya1\AiP2 Dz1 Textovaya1\Source.cpp(81,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AiP2 Dz1 Textovaya1.vcxproj -> F:\repos\AiP2 Dz1 Textovaya1\Debug\AiP2 Dz1 Textovaya1.exe
